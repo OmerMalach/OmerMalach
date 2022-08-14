@@ -10,7 +10,7 @@ Specializing in Artificial Intelligence (and loving it!)
 
  [![Linkedin Badge](https://img.shields.io/badge/-Omer_Malach-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omermalach/) [![Mail Badge](https://img.shields.io/badge/-@omer.malach-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/omer.malach) [![Mail Badge](https://img.shields.io/badge/-Omer.Malach-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omer.malach@gmail.com)
 
-#### **Top Technologies**
+#### **:robot: Top Technologies**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
