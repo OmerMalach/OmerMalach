@@ -2,10 +2,10 @@
 
 I'm Omer Malach,
 <br />
-Third-year in a B.Sc. in Industrial Engineering and Management at Ben Gurion University
+4th year in a B.Sc. in Industrial Engineering and Management at Ben Gurion University
 <br />
-Specializing in Artificial Intelligence (and loving it!)
-
+Specializing in Artificial Intelligence and Intelligent information systems (and loving it!)
+<br />
 :mailbox: Reach me out!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Omer_Malach-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omermalach/) [![Mail Badge](https://img.shields.io/badge/-@omer.malach-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/omer.malach) [![Mail Badge](https://img.shields.io/badge/-Omer.Malach-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omer.malach@gmail.com)
@@ -22,5 +22,5 @@ Specializing in Artificial Intelligence (and loving it!)
 #### **Profile Visits**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=OmerMalach.OmerMalach&left_color=green&right_color=blue)
-
- 
+<br />
+## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_1f447.png" width="28px" height="28px" alt="hi"> Check Me Out! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_1f447.png" width="28px" height="28px" alt="hi">
