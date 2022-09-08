@@ -6,6 +6,7 @@ I'm Omer Malach,
 <br />
 Specializing in Artificial Intelligence and Intelligent information systems (and loving it!)
 <br />
+<br />
 :mailbox: Reach me out!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Omer_Malach-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omermalach/) [![Mail Badge](https://img.shields.io/badge/-@omer.malach-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/omer.malach) [![Mail Badge](https://img.shields.io/badge/-Omer.Malach-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omer.malach@gmail.com)
