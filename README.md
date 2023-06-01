@@ -1,27 +1,13 @@
- ## Hi I'm Omer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hi, I'm Omer <img src=https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif height="40" width="40"></h1>
+<h3 align="center">Data Engineer at BlueVine</h3>
 
-I'm Omer Malach,
-<br />
-4th year in a B.Sc. in Industrial Engineering and Management at Ben Gurion University
-<br />
-Specializing in Artificial Intelligence and Intelligent information systems (and loving it!)
-<br />
-<br />
-:mailbox: **Reach me out!**
+- 👋 Greetings! I'm Omer Malach, a recent graduate 🎓 in Industrial Engineering and Management from Ben Gurion University, where I specialized in Artificial Intelligence 🧠 and Intelligent Information Systems. Eager to venture into the captivating world of Data Engineering, I am on the cusp of an exciting professional journey. 💼 With enthusiasm and a constant drive to expand my knowledge 📚, I'm set to dive into the diverse tech world ahead. 🚀"
+- 👨‍💻 All of my projects are available at [here](https://github.com/OmerMalach?tab=repositories)!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Omer_Malach-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omermalach/) [![Mail Badge](https://img.shields.io/badge/-@omer.malach-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/omer.malach) [![Mail Badge](https://img.shields.io/badge/-Omer.Malach-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omer.malach@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/omermalach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
 
-#### **:robot: Top Technologies**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<br />
-
-#### **Profile Visits**
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=OmerMalach.OmerMalach&left_color=green&right_color=blue)
-<br />
-## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_1f447.png" width="28px" height="28px" alt="hi"> Check Me Out! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_1f447.png" width="28px" height="28px" alt="hi">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
