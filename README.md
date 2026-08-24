@@ -68,7 +68,7 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ben--Gurion_University_of_the_Negev-003366?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Ben Gurion University Badge"/><br/><br/>
+  <img src="https://img.shields.io/badge/Ben--Gurion_University_of_the_Negev-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Ben Gurion University Badge"/><br/><br/>
   <b>B.Sc. in Industrial Engineering and Management</b><br/>
   2019 – 2023<br/>
   <i>Specialization: Intelligent Information Systems & Machine Learning</i>
