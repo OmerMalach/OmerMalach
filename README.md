@@ -16,19 +16,23 @@
   </a>
 </p>
 
----
-
-## ⚡ About Me
-
-I am a Data Engineer with 3 years of experience at Bluevine building scalable backend data infrastructure and enabling data-driven decision-making. Holding a B.Sc. in Industrial Engineering & Management from Ben Gurion University (majoring in Intelligent Information Systems & ML), I specialize in moving complex data solutions from concept into production. 
-
-My work focuses on leading autonomous cloud migrations, designing high-throughput Python pipelines orchestrated with Airflow, setting up multi-platform observability, and integrating modern AI agent workflows (Claude) to automate backend engineering tasks.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+<h2 align="center">⚡ About Me</h2>
 
-<p>
+I am an autonomous Data Engineer with 3 years of experience at Bluevine designing, optimizing, and deploying production-grade data infrastructure[cite: 1]. My expertise spans end-to-end ETL/ELT pipeline architecture, workflow orchestration with Airflow, and driving complex backend modernizations from initial ideation to production deployment[cite: 1].
+
+Throughout my work, I have specialized in leading large-scale cloud transformations—notably architecting and executing a complete database migration from legacy PostgreSQL/Redshift infrastructure to serverless AWS Athena and S3 data lakes[cite: 1]. To maintain platform health across high-throughput systems, I leverage multi-platform observability tools including Grafana, OpenSearch, Sentry, and AWS CloudWatch for active log analysis and troubleshooting[cite: 1]. Additionally, I design and integrate autonomous AI agents to streamline and automate complex internal data engineering workflows[cite: 1].
+
+Beyond technical execution, I place a strong emphasis on leadership, clear technical communication, and cross-functional collaboration[cite: 1]. I have led global technical knowledge transfers by mentoring and onboarding international engineering teams in India[cite: 1]—skills rooted in my background as an IDF Parachute Instructor commanding high-stress training operations[cite: 1]. I hold a B.Sc. in Industrial Engineering and Management from Ben-Gurion University of the Negev, specializing in Intelligent Information Systems and Machine Learning[cite: 1].
+
+---
+
+<h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-redshift.svg" alt="Amazon Redshift" title="Amazon Redshift" width="46" height="46"/> &nbsp;
@@ -38,7 +42,7 @@ My work focuses on leading autonomous cloud migrations, designing high-throughpu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Airflow" width="46" height="46"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="46" height="46"/> &nbsp;
@@ -47,7 +51,7 @@ My work focuses on leading autonomous cloud migrations, designing high-throughpu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" title="Sentry" width="46" height="46"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="Tableau" title="Tableau" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" alt="Power BI" title="Power BI" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="46" height="46"/> &nbsp;
@@ -57,10 +61,17 @@ My work focuses on leading autonomous cloud migrations, designing high-throughpu
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-**B.Sc. in Industrial Engineering and Management**  
-*Ben Gurion University of the Negev (2019 – 2023)*  
-Specialization in Intelligent Information Systems & Machine Learning
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="80%" valign="top">
+      <h3>B.Sc. in Industrial Engineering and Management</h3>
+      <p><b>Ben-Gurion University of the Negev</b> | 2019 – 2023[cite: 1]</p>
+      <p><i>Specialization:</i> Intelligent Information Systems & Machine Learning[cite: 1]</p>
+    </td>
+    <td width="20%" align="right" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Ben-Gurion_University_of_the_Negev_logo.svg" alt="Ben-Gurion University Logo" width="110"/>
+    </td>
+  </tr>
+</table>
