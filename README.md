@@ -16,11 +16,9 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-<h2 align="center">⚡ About Me</h2>
+## ⚡ About Me
 
 I am an autonomous Data Engineer with 3 years of experience at Bluevine designing, optimizing, and deploying production-grade data infrastructure. My expertise spans end-to-end ETL/ELT pipeline architecture, workflow orchestration with Airflow, and driving complex backend modernizations from initial ideation to production deployment.
 
@@ -30,9 +28,9 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
+## 🛠️ Tech Stack & Ecosystem
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-redshift.svg" alt="Amazon Redshift" title="Amazon Redshift" width="46" height="46"/> &nbsp;
@@ -42,7 +40,7 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Airflow" width="46" height="46"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="46" height="46"/> &nbsp;
@@ -51,7 +49,7 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" title="Sentry" width="46" height="46"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="Tableau" title="Tableau" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" alt="Power BI" title="Power BI" width="46" height="46"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="46" height="46"/> &nbsp;
@@ -61,17 +59,13 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
 
-<table border="0" width="100%">
-  <tr>
-    <td width="80%" valign="top">
-      <h3>B.Sc. in Industrial Engineering and Management</h3>
-      <p><b>Ben-Gurion University of the Negev</b> | 2019 – 2023</p>
-      <p><i>Specialization:</i> Intelligent Information Systems & Machine Learning</p>
-    </td>
-    <td width="20%" align="right" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/he/thumb/6/6c/Ben-Gurion_University_logo.svg/512px-Ben-Gurion_University_logo.svg.png" alt="Ben-Gurion University Logo" width="110"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Ben-Gurion_University_of_the_Negev_logo.svg/320px-Ben-Gurion_University_of_the_Negev_logo.svg.png" alt="Ben-Gurion University Logo" width="120"/><br/><br/>
+  <b>B.Sc. in Industrial Engineering and Management</b><br/>
+  Ben-Gurion University of the Negev (2019 – 2023)<br/>
+  <i>Specialization: Intelligent Information Systems & Machine Learning</i>
+</p>
+
+</div>
