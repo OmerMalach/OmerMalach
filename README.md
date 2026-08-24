@@ -16,21 +16,25 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-<h2 align="center">⚡ About Me</h2>
+## ⚡ About Me
 
+<p align="center">
 I am an autonomous Data Engineer with 3 years of experience at Bluevine designing, optimizing, and deploying production-grade data infrastructure. My expertise spans end-to-end ETL/ELT pipeline architecture, workflow orchestration with Airflow, and driving complex backend modernizations from initial ideation to production deployment.
+</p>
 
+<p align="center">
 Throughout my work, I have specialized in leading large-scale cloud transformations—notably architecting and executing a complete database migration from legacy PostgreSQL/Redshift infrastructure to serverless AWS Athena and S3 data lakes. To maintain platform health across high-throughput systems, I leverage multi-platform observability tools including Grafana, OpenSearch, Sentry, and AWS CloudWatch for active log analysis and troubleshooting. Additionally, I design and integrate autonomous AI agents to streamline and automate complex internal data engineering workflows.
+</p>
 
+<p align="center">
 Beyond technical execution, I place a strong emphasis on leadership, clear technical communication, and cross-functional collaboration. I have led global technical knowledge transfers by mentoring and onboarding international engineering teams in India—skills rooted in my background as an IDF Parachute Instructor commanding high-stress training operations. I hold a B.Sc. in Industrial Engineering and Management from Ben-Gurion University of the Negev, specializing in Intelligent Information Systems and Machine Learning.
+</p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
+## 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="46" height="46"/> &nbsp;
@@ -61,17 +65,19 @@ Beyond technical execution, I place a strong emphasis on leadership, clear techn
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
 
 <table border="0" width="100%">
   <tr>
-    <td width="85%" align="left" valign="middle">
+    <td width="80%" align="left" valign="middle">
       <b>B.Sc. in Industrial Engineering and Management</b><br/>
       Ben-Gurion University of the Negev (2019 – 2023)<br/>
       <i>Specialization: Intelligent Information Systems & Machine Learning</i>
     </td>
-    <td width="15%" align="right" valign="middle">
-      <img src="https://logo.clearbit.com/bgu.ac.il" alt="Ben-Gurion University Logo" width="80"/>
+    <td width="20%" align="right" valign="middle">
+      <img src="https://images.seeklogo.com/logo-png/43/2/ben-gurion-university-of-the-negev-logo-png_seeklogo-439563.png" alt="Ben-Gurion University Logo" width="90"/>
     </td>
   </tr>
 </table>
+
+</div>
