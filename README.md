@@ -1,78 +1,55 @@
-<h1 align="center">Hi, I'm Omer Malach 👋</h1>
-<h3 align="center">Data Engineer @ Bluevine | Pipeline Architecture & Data Solutions</h3>
+<h1 align="center">Hi, I'm Omer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="40" width="40"></h1>
+<h3 align="center">Data Engineer @ Bluevine</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omermalach/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:omer.malach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/OmerMalach?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://www.linkedin.com/in/omermalach/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/OmerMalach?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="mailto:omer.malach@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🚀 **Data Engineer** with 3 years of experience building scalable data infrastructure, optimizing ETL/ELT pipelines, and enabling data-driven decision-making[cite: 1].
-- 🏗️ **Infrastructure Migration:** Autonomously led a major database migration from legacy PostgreSQL/Redshift to AWS Athena, auditing vast codebases to streamline mission-critical pipelines[cite: 1].
-- ⚙️ **Workflow Orchestration:** Specialized in designing Python-based pipelines and automating orchestration using Apache Airflow[cite: 1].
-- 🤖 **Innovation:** Autonomous builder leveraging modern AI agent workflows (Claude) to automate complex data engineering tasks[cite: 1].
+I am a Data Engineer with 3 years of experience at Bluevine designing scalable data systems, automating high-throughput ETL/ELT pipelines with Apache Airflow, and enabling data-driven decision-making across teams[cite: 1]. Holding a B.Sc. in Industrial Engineering and Management from Ben Gurion University (majoring in Intelligent Information Systems & Machine Learning)[cite: 1], I bring an analytical, problem-solving mindset to complex backend challenges. My core work spans leading autonomous cloud migrations—such as transitioning mission-critical infrastructure from legacy PostgreSQL/Redshift to serverless AWS Athena and S3[cite: 1]—implementing robust observability with Grafana, CloudWatch, OpenSearch, and Sentry[cite: 1], and leveraging AI agent workflows (Claude) to automate complex engineering processes[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<p align="left">
-  <b>Languages</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Amazon Redshift" title="Amazon Redshift" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_s3/amazon_s3-icon.svg" alt="Amazon S3" title="Amazon S3" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_athena/amazon_athena-icon.svg" alt="AWS Athena" title="AWS Athena" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws_lambda/amazon_aws_lambda-icon.svg" alt="AWS Lambda" title="AWS Lambda" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" title="Apache Airflow" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48"/>
 </p>
 
-<p align="left">
-  <b>Databases & Data Storage</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="redshift" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazons3/amazons3-original.svg" alt="s3" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <b>Query Engines, Compute & Orchestration</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="athena" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <b>DevOps & CI/CD</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <b>Observability & Telemetry</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="sentry" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <b>Business Intelligence & Visualization</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="45" height="45"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opensearch/opensearch-icon.svg" alt="OpenSearch" title="OpenSearch" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" title="Sentry" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" title="Tableau" width="48" height="48"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" title="Power BI" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" width="48" height="48"/>
 </p>
 
 ---
 
-### 🎓 Education & Background
+### 🎓 Education
 
-- 🎓 **B.Sc. in Industrial Engineering and Management**  
-  *Ben Gurion University of the Negev (2019 – 2023)*[cite: 1]  
-  *Specialization:* Intelligent Information Systems & Machine Learning[cite: 1]
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/omermalach/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
-</p>
+**B.Sc. in Industrial Engineering and Management** | *Ben Gurion University of the Negev (2019 – 2023)*[cite: 1]  
+Specialization in Intelligent Information Systems & Machine Learning[cite: 1]
